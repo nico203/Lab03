@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ns.dam.isi.frsf.utn.edu.ar.lab03.MainActivity">
+
+    <item android:id="@+id/itemMenuPrincipal1"
+        android:title="Crear una oferta" />
+
+    <item android:id="@+id/itemMenuPrincipal2"
+        android:title="Ver mis ofertas" />
+
+    <item android:id="@+id/itemMenuPrincipal3"
+        android:title="Configuración" />
+
+    <item android:id="@+id/itemMenuPrincipal4"
+        android:title="Salir" />
+</menu>

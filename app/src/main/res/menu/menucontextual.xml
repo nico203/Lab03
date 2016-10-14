@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ns.dam.isi.frsf.utn.edu.ar.lab03.MainActivity">
+
+    <item android:id="@+id/idMenuContextual1"
+        android:title="Postularse a la Oferta" />
+
+    <item android:id="@+id/idMenuContextual2"
+        android:title="Compartir esta Oferta" />
+
+</menu>
